@@ -5,7 +5,7 @@
 title: Repository
 layout: default
 ---
-DOH Case Files
+DOH Case Files ( All files obtained via WA Public Disclosure Requests. )
 
   [2009-137219](https://kcpeorg.github.io/WA/JenniferKeilin/DOH/cases/2009-137219.pdf)
 
