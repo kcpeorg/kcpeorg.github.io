@@ -16,3 +16,7 @@ DOH Case Files ( All files obtained via WA Public Disclosure Requests. )
   [2016-4218SW](https://kcpeorg.github.io/WA/JenniferKeilin/DOH/cases/2016-4218SW.pdf)
 
   [2017-14741LW](https://kcpeorg.github.io/WA/JenniferKeilin/DOH/cases/2017-14741LW.pdf)
+
+Professional Reviews provided to WA Courts.
+
+	[PROFESSIONAL_CRITIQUE_of_2015-2LW_PROVIDED_COURT](https://kcpeorg.github.io/WA/JenniferKeilin/DOH/cases/PROFESSIONAL_CRITIQUE_of_2015-2LW_PROVIDED_COURT.pdf)
