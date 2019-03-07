@@ -26,6 +26,7 @@ Where you need to go to file your own complaint:
 [Health Systems Quality Assurance Complaint Intake Form](https://fortress.wa.gov/doh/opinio/s?s=ComplaintFormHPF)
 
 License Number [LW60064966](https://data.wa.gov/Health/Find-a-Health-Provider-Credential/k356-mc56)
+
 License Type: Social Worker Independent Clinical License
 
 Note, if you have been lead to believe that she is a GAL, you need to report this elsewhere ( as of the last time I checked, she is not ).  Note that in the 2016 listed above the individual thought she was. On one CV she provided under oath she listed herself as providing "GAL services". 
